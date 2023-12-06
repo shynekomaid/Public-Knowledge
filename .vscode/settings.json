@@ -1,0 +1,26 @@
+{
+  "cSpell.words": [
+    "bcmath",
+    "dearmor",
+    "dpkg",
+    "gitea",
+    "Gitmoji",
+    "keyrings",
+    "mbstring",
+    "neovim",
+    "ondrej",
+    "phar",
+    "reindex",
+    "shynekomaid",
+    "Vulkan"
+  ],
+  "[markdown]": {
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 80
+  },
+  "git.enableSmartCommit": true,
+  "files.autoSave": "onFocusChange",
+  "markdown.styles": [
+    ".vscode/custom-tag-style.css"
+  ]
+}

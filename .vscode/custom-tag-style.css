@@ -1,0 +1,25 @@
+/* Dark theme styles for tag list */
+.foam-tag {
+  display: inline-block;
+  padding: 0.2rem 0.3rem;
+  background-color: #343a40;
+  border-radius: 0.5rem;
+  font-style: italic;
+  font-size: 0.8rem;
+  color: #eee;
+}
+
+/* Style for hover */
+.foam-tag:hover {
+  background-color: #4b5362;
+}
+
+/* Style for <hr> */
+hr.code-line {
+  background-color: #4b5362 !important;
+}
+
+/* Style for "Tags:" and commas */
+p.code-line:has(> .foam-tag) {
+  font-style: italic;
+}

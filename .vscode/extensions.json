@@ -1,0 +1,21 @@
+{
+  "recommendations": [
+    "foam.foam-vscode",
+    "streetsidesoftware.code-spell-checker",
+    "streetsidesoftware.code-spell-checker-ukrainian",
+    "streetsidesoftware.code-spell-checker-russian",
+    "jameslan.yaclock",
+    "tombonnike.vscode-status-bar-format-toggle",
+    "waderyan.gitblame",
+    "codezombiech.gitignore",
+    "seatonjiang.gitmoji-vscode",
+    "yzhang.markdown-all-in-one",
+    "davidanson.vscode-markdownlint",
+    "zhuangtongfa.material-theme",
+    "christian-kohler.path-intellisense",
+    "tomoki1207.pdf",
+    "gruntfuggly.todo-tree",
+    "esbenp.prettier-vscode",
+    "editorconfig.editorconfig"
+  ]
+}
