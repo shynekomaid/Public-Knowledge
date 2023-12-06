@@ -1,4 +1,4 @@
-# Homeland Repository
+# Public Knowledge Repository
 
 ## Overview
 
@@ -8,7 +8,7 @@ For an enhanced reading experience, it is advisable to utilize Visual Studio Cod
 
 ## Contribution
 
-If you wish to contribute, please check the [[TODO|TODO]] for information that need attention. Your contributions are highly valued and appreciated.
+If you wish to contribute, please check the [TODO](TODO.md) for information that need attention. Your contributions are highly valued and appreciated.
 
 ### Convenient Gitmoji Commits
 
