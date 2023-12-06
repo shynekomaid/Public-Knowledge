@@ -31,4 +31,4 @@ To use **Gitmoji** in your commit messages, simply add the appropriate emoji at 
 >
 > **Notice:** copy emoji as character, use `✨` instead of `:sparkles:`, or use [Gitmoji VSCode Extension](https://marketplace.visualstudio.com/items?itemName=seatonjiang.gitmoji-vscode).
 
-Feel free to make the most of the Homeland repository!
+Feel free to make the most of the Public Knowledge repository!
