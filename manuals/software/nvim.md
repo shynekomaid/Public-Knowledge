@@ -1,9 +1,9 @@
 # Neovim Guide
 
-## Table of Content
+## Table of Contents
 
 - [Neovim Guide](#neovim-guide)
-  - [Table of Content](#table-of-content)
+  - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
     - [Description](#description)
     - [Key Features](#key-features)

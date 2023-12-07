@@ -1,9 +1,9 @@
 # RTL-SDR for Linux Quick Start Guide
 
-## Table of Content
+## Table of Contents
 
 - [RTL-SDR for Linux Quick Start Guide](#rtl-sdr-for-linux-quick-start-guide)
-  - [Table of Content](#table-of-content)
+  - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)

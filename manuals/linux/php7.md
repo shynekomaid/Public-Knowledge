@@ -2,10 +2,10 @@
 
 > This guide is written for ubuntu 20.04
 
-## Table of Content
+## Table of Contents
 
 - [PHP Installation Guide](#php-installation-guide)
-  - [Table of Content](#table-of-content)
+  - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Installation](#installation)
 
