@@ -4,6 +4,7 @@
 
 - [Setup Linux Workflow](#setup-linux-workflow)
   - [Table of Contents](#table-of-contents)
+  - [Related Article](#related-article)
   - [Software](#software)
     - [Zsh the Unix Shell](#zsh-the-unix-shell)
       - [Install Zsh in Ubuntu](#install-zsh-in-ubuntu)
@@ -20,7 +21,13 @@
     - [Bun the Node.js Replacement](#bun-the-nodejs-replacement)
     - [tldr pages](#tldr-pages)
 
+## Related Article
+
+Also read how to: [[create_user|create user]], [[change_password|change user password]], or [[add_user_to_sudo|add to sudo]].
+
 ## Software
+
+<!-- nmap, htop, ncmpcpp -->
 
 ### Zsh the Unix Shell
 
@@ -154,6 +161,7 @@ sudo apt install pipx # optional but recommended
 Install:
 
 ```bash
+sudo apt install nodejs # optional
 curl -fsSL https://bun.sh/install | bash
 ```
 

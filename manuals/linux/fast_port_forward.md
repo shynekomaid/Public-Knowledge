@@ -14,6 +14,7 @@
       - [Remote Port Forwarding Example](#remote-port-forwarding-example)
       - [Remote Port Forwarding Usage Scenario](#remote-port-forwarding-usage-scenario)
   - [Limitations and Problems](#limitations-and-problems)
+  - [External links](#external-links)
   - [Conclusion](#conclusion)
 
 ## How to Use Port Forwarding via SSH
@@ -77,6 +78,10 @@ Beneficial for scenarios where you have a local service, such as a development s
 3. **Permission Denied**: Address permission issues on your local machine and remote server.
 4. **Address Binding**: Consider security implications when binding the remote port.
 5. **Existing Connections**: Be cautious of existing connections to the local or remote port.
+
+## External links
+
+1. [Habr: Магия SSH](https://habr.com/ru/articles/331348/)
 
 ## Conclusion
 
